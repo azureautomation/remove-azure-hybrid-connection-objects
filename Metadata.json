@@ -1,0 +1,20 @@
+{
+    "Author": "Martin Schvartzman",
+    "ContentSize": 1534,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remove-azure-hybrid-connection-objects/master/Remove-AzureRMHybridConnection.ps1",
+    "DownloadCount": 458,
+    "Id": "Remove-Azure-Hybrid-0bc8b48f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 598,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-10-5T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "There is currently no cmdlet to easily remove an Azure Hybrid Connection object (from an App Service Plan). So in a case you need to remove several connection objects, doing it from the protal is tedious. This is why I created this script.",
+    "Title": "Remove Azure Hybrid Connection objects",
+    "UpdatedDate": "2018-10-5T00:00:00",
+    "Url": "https://github.com/azureautomation/remove-azure-hybrid-connection-objects",
+    "UserTags": "Microsoft Azure"
+}
